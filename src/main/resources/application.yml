@@ -18,7 +18,7 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:1111/eureka/
 
-# Disable Spring Boot's "Whitelabel" default error page, so we can use our own
+# Disable Spring Boot's "Whitelabel" default error page, so we can use our ownfghghghjghghgjhjh
 error:
   whitelabel:
     enabled:  false
