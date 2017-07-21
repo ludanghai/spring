@@ -22,3 +22,5 @@ eureka:
 error:
   whitelabel:
     enabled:  false
+server:
+  port: 8888
