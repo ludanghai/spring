@@ -23,4 +23,4 @@ error:
   whitelabel:
     enabled:  false
 server:
-  port: 1993
+  port: 1995
